@@ -1,0 +1,29 @@
+#heading {
+    color: green;
+}
+
+#parent{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+}
+
+#child{
+    background-color: yellow;
+}
+
+#child:hover {
+    background-color: chocolate;
+}
+
+#child2 {
+    background-color: chocolate;
+}
+
+#child2:hover {
+    background-color: yellow;
+}
+
+.root{
+    background-color: red;
+}
